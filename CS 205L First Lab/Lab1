@@ -1,0 +1,9 @@
+Number of elements in students: 5
+Larry's age: 21
+---------students with age less than 20---------
+Student [id=100, age=18, name=John]
+Student [id=101, age=19, name=Jane]
+---------new students list---------
+Student [id=102, age=21, name=Larry]
+Student [id=103, age=20, name=Karen]
+Student [id=103, age=20, name=Karen]
